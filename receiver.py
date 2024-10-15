@@ -70,7 +70,7 @@ def name(state):
 received_data = "No data"
 
 md = """
-<|text-center|
+
 <|{path}|image|>
 
 
